@@ -1,0 +1,4 @@
+0#Daniel#MALE#false#true#false
+0#Daniel#MALE#false#true#false
+1#Luisa#FEMALE#false#true#false
+2#Karen#FEMALE#false#false#true
